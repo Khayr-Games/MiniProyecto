@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 399748478}
   - component: {fileID: 399748477}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Image_title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -590,7 +590,7 @@ GameObject:
   - component: {fileID: 536208945}
   - component: {fileID: 536208944}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Btn_exit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -723,7 +723,7 @@ GameObject:
   - component: {fileID: 867945539}
   - component: {fileID: 867945538}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Btn_play
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1854,7 +1854,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Agustin Pazos (Programador)\nAntony Sarazola (Dise\xF1ador"
+  m_Text: "Agustin Pazos (Programador)\nAntony Sarazola (Dise\xF1ador)"
 --- !u!222 &2138922935
 CanvasRenderer:
   m_ObjectHideFlags: 0
